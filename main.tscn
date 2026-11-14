@@ -1,0 +1,6 @@
+[gd_scene format=3 uid="uid://cs0eq464p1wfl"]
+
+[ext_resource type="Script" uid="uid://htrksfhd5f5o" path="res://game.gd" id="1"]
+
+[node name="Rebound" type="Node2D" unique_id=1357922465]
+script = ExtResource("1")
